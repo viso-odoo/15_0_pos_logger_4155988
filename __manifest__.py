@@ -24,7 +24,6 @@
     'assets': {
         'point_of_sale.assets': [
             '15_0_pos_logger_4155988/static/src/Chrome.js',
-            '15_0_pos_logger_4155988/static/src/ProductScreen.js',
         ],
     },
     'license': 'AGPL-3'
